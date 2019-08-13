@@ -12,6 +12,7 @@
     "aws-sdk": "2.2.4"
   },
   "devDependencies": {
+    "cypress": "^3.4.0",
     "jasmine": "2.3.1"
   }
 }
